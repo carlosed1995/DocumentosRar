@@ -1,0 +1,8 @@
+{
+  "require": {
+      "farhanwazir/laravelgooglemaps": "^2.3",
+    "laravelcollective/html": "^5.5"
+ 
+  }
+  
+}
